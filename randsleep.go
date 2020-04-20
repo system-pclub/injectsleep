@@ -1,4 +1,4 @@
-package main
+package injectsleep
 
 import (
 	"math/rand"
